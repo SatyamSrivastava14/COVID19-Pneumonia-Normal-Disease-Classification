@@ -22,4 +22,4 @@ After training the model, I achieved promising accuracy on the validation datase
 
 Feel free to explore the code and dive into the journey of building and training a CNN for image classification. If you have any questions or suggestions, don't hesitate to get in touch!
 
-Thanks for visiting and happy coding! 🌟
+Thanks for visiting 🌟
